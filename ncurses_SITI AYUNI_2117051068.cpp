@@ -8,6 +8,7 @@ int main (){
 	
 	initscr();
 	printw( "SITI AYUNI");
+	printw( "Ilmu Komputer");
 	
 
 	refresh();
