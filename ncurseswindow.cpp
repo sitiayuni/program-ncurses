@@ -12,4 +12,5 @@ int main() {
     
     getch(); //menahan layar
     endwin(); //mengakhiri program 
+  
 } 
