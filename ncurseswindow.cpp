@@ -1,6 +1,11 @@
 #include <ncurses.h>
 
 int main() {
+  /* NAMA : SITI AYUNI
+     KELAS : B
+     NPM : 2117051068
+     */
+  
   initscr();
   curs_set (0);
 
