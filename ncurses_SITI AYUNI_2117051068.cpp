@@ -14,5 +14,6 @@ int main (){
 
 	refresh();
 	getch();
+	
 	endwin();
 }
