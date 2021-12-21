@@ -1,6 +1,7 @@
 # program-ncurses
 belajar ncurses pertama kali menggunakan terminal mingw
- beberapa contoh program ncurses
+
+ Di atas beberapa contoh program ncurses
  
  NAMA : SITI AYUNI 
  
