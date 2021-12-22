@@ -9,4 +9,4 @@ belajar ncurses pertama kali menggunakan terminal mingw
  
  NPM :2117051068
  
- library ncuses
+ library ncurses
