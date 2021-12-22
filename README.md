@@ -8,3 +8,5 @@ belajar ncurses pertama kali menggunakan terminal mingw
  KELAS : ILMU KOMPUTER B
  
  NPM :2117051068
+ 
+ library ncuses
