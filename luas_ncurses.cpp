@@ -3,7 +3,8 @@
 
 int main (){
 	
-// deklasi alas, , luas, 
+// deklarasi panjang,lebar,luas; 
+	
 	float p,l,L;
 	
 	initscr();
