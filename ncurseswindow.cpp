@@ -16,6 +16,7 @@ int main() {
     wrefresh(win);
     
     getch(); //menahan layar
+  
     endwin(); //mengakhiri program 
   
 } 
