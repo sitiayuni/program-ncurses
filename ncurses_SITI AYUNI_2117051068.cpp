@@ -4,7 +4,9 @@ using namespace std;
 int main (){
 	
 	/*Nama = SITI AYUNI
-	KELAS = B ILKOMP 21*/
+	KELAS = B ILKOMP 21
+	NPM : 2117051068
+	*/
 	
 	initscr();
 	printw( "SITI AYUNI");
