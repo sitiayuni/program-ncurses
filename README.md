@@ -1,7 +1,7 @@
 # program-ncurses
-belajar ncurses pertama kali menggunakan terminal mingw
+belajar library ncurses pertama kali menggunakan terminal mingw
 
- Di atas beberapa contoh program ncurses
+ Di atas beberapa contoh program ncurses yang saya buat
  
  NAMA : SITI AYUNI 
  
@@ -9,4 +9,4 @@ belajar ncurses pertama kali menggunakan terminal mingw
  
  NPM :2117051068
  
- library ncurses
+
