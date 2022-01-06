@@ -11,7 +11,7 @@ int main (){
 	
 	mvprintw(5,15, " .... ");
 	refresh();
-    Sleep (1000);
+        Sleep (1000);
 	
 	mvprintw(5,20, " .... ");
 	refresh();
@@ -26,6 +26,7 @@ int main (){
 	Sleep(1000);
 	
 	getch();
-	endwin();
+	
+endwin();
 	
 }
